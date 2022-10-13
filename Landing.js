@@ -7,7 +7,7 @@ const Landing = () => {
 
             <div>
                 <h3>this is me ✨</h3>
-                <img src="../public/grad_image_emily.png" alt = "This is me"/>
+                <img src="../../public/grad_image_emily.png" alt = "This is me"/>
             </div>
 
             <div>
